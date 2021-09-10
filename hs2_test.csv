@@ -1,4 +1,4 @@
-,ids_y,parents_y,value_y,percent,ids_x,parents_x,Trade Value_x
+x,ids_y,parents_y,value_y,percent,ids_x,parents_x,Trade Value_x
 0,root,,,,,,
 0,Animal Hides,root,10136310,0.077839184,,,
 1,Animal Products,root,383287338,2.943356476,,,
